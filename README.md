@@ -13,6 +13,7 @@
 * Dependence Injection
 * Clean Code
 * Design Patterns
+* NET 6.0
 
 
 
