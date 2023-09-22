@@ -11,10 +11,8 @@
 * .OOP 
 * SOLID
 * Dependence Injection
-* SOLID
 * Clean Code
 * Design Patterns
-* Clean Arch
 
 
 
