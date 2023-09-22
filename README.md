@@ -14,7 +14,7 @@
 * SOLID
 * Clean Code
 * Design Patterns
-* Software Architecture
+* Clean Arch
 
 
 
